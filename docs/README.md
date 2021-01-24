@@ -1,3 +1,3 @@
-# Headline
+# Sogol Mehranvari 
 
-> An awesome project.
+> This is my personal Note taking application
