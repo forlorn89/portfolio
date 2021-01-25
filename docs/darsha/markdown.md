@@ -7,6 +7,7 @@ My goal on this page to learn everything about Markdown and use this document as
 - [What is Markdown?](#what-is-markdown)
 - [What is Markdown file extension?](#what-is-markdown-file-extension)
 - [How to create a auto generated table of contents for markdown in VsCode?](#how-to-create-a-auto-generated-table-of-contents-for-markdown-in-vscode)
+- [How to add image in Markdown?](#how-to-add-image-in-markdown)
 - [How to use Markdown Keyboard Shortcut](#how-to-use-markdown-keyboard-shortcut)
 - [Bookmark](#bookmark)
 
@@ -42,6 +43,10 @@ To write markdown documentation we need to create a file with any name and save 
 2. Then we will type `create ...` and will see 
 3. Then hit the enter
 
+## How to add image in Markdown?
+- Add an images on `darsha/images`
+- Add `![alt text](darsha/images/file.jpg)` to the place you want to add your image.  
+
 
 ---
 
@@ -50,3 +55,6 @@ To write markdown documentation we need to create a file with any name and save 
 
 ## Bookmark
 Bookmark is the list of tools and technology related to markdown that I need to use in my daily routine, so I bookmark the URL in here. i.e [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+

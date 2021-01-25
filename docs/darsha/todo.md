@@ -9,9 +9,9 @@ After each task finished I'm responsible to `checkmate` the task and `push` my c
 - [Hard Reload on Chrome and Safari Browser](#hard-reload-on-chrome-and-safari-browser)
 
 ## TASK to Complete by Sogol:
-- [x] First need to learn how to use your website in you personal Mac. 
-- [ ] How to commit and deploy your local host to remote host/Server/website [docs.forlorn89.tk](https://docs.forlorn89.tk/)
 - [ ] List iOS course table of content by hierarchy
+  - [ ] parent `##`, child `###` needed.
+  - [ ] I need time for parents.
 - [ ] Learn markdown in next 2 days. 
 
 ---
