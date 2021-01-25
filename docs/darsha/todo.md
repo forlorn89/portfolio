@@ -6,6 +6,7 @@ After each task finished I'm responsible to `checkmate` the task and `push` my c
 - [TASK to Complete by Sogol:](#task-to-complete-by-sogol)
 - [Run Documentations Website Locally](#run-documentations-website-locally)
 - [How to Commit and Deploy Your Website](#how-to-commit-and-deploy-your-website)
+- [Hard Reload on Chrome and Safari Browser](#hard-reload-on-chrome-and-safari-browser)
 
 ## TASK to Complete by Sogol:
 - [x] First need to learn how to use your website in you personal Mac. 
@@ -32,3 +33,6 @@ After each task finished I'm responsible to `checkmate` the task and `push` my c
 3. In the `Summary` for commit type `some message` EX "Finish my Swift task 1"
 4. Click **Commit to Docs** at the button.
 5. Then Click the **Push to Docs** at the top.
+
+## Hard Reload on Chrome and Safari Browser 
+- Chrome: `CMD + Option + i` below developer tools will be open, then hold `Option` and `click and hold` on refresh button on chrome, then click the `Empty cach and Hard Reload`.
